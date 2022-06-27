@@ -6,7 +6,8 @@ Los tipos de JOIN que vamos a ver en este repositorio, igualmente que los de la 
 
 Antecedentes
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-[DQL](https://github.com/BarrigueteHector/Bases-de-Datos-DQL): **SQL**.
+[DQL](https://github.com/BarrigueteHector/Bases-de-Datos-DQL): **SELECT**.
+
 [Cosultas y Funciones de agregación](https://github.com/BarrigueteHector/Bases-de-Datos-Consultas-y-Funciones-de-agregacion): **LIKE**.
 
 Desarrollo
